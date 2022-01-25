@@ -14,7 +14,7 @@ FROM hub.docker.com/babashka/babashka:0.7.1
 # Tags: 0.7.2
 FROM hub.docker.com/babashka/babashka:0.7.2
 
-# Tags: 0.7.3, latest
+# Tags: 0.7.3
 FROM hub.docker.com/babashka/babashka:0.7.3
 
 # Tags: 0.7.4, latest
